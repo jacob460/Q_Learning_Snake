@@ -8,4 +8,5 @@ Handles the Agent
 
 ## snake_game.py
 Created by patrickloeber: [https://github.com/patrickloeber](https://github.com/patrickloeber/python-fun/tree/master/snake-pygame)
+
 Handles the snake game itself.
