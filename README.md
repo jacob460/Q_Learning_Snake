@@ -3,6 +3,8 @@
 ## print_Qtable.py
 This file prints the number of Q_table entries and episodes used to train the model.
 
+Also plots the average score per 100 games over the total episodes of the model.
+
 ## main.py
 Handles the Agent
 
